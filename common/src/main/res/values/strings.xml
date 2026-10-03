@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">xcertplay</string>
+    <string-array name="diy_audio_channel_entries"><item>自动选择 (Auto)</item><item>媒体音乐 (Media)</item><item>独立导航通道 (强制14号物理通道)</item></string-array>
 </resources>
